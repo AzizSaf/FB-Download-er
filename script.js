@@ -124,7 +124,7 @@ function results(data) {
       <div class="SD_Btn">
           
         <img src="video-camera.gif">
-        <span>HD 480</span>
+        <span>SD 480</span>
         <a target="_blank" href="${SD}">
           <img src="download.gif">
         </a>
