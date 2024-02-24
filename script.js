@@ -114,19 +114,19 @@ function results(data) {
         
       <div class="HD_Btn">
           
-        <img src="/src/video-camera.gif">
+        <img src="video-camera.gif">
         <span>HD 720</span>
         <a target="_blank" href="${HD}">
-          <img src="/src/download.gif">
+          <img src="download.gif">
         </a>
           
       </div>
       <div class="SD_Btn">
           
-        <img src="/src/video-camera.gif">
+        <img src="video-camera.gif">
         <span>HD 480</span>
         <a target="_blank" href="${SD}">
-          <img src="/src/download.gif">
+          <img src="download.gif">
         </a>
         
       </div>
@@ -140,5 +140,3 @@ function results(data) {
     close_btn.style.display = 'flex'
   }
 }
-
-//https://www.facebook.com/100077122911543/videos/920156226073100/?mibextid=ZJZnRZ3J6AsJ4wuB
